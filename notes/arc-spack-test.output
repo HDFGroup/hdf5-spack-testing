@@ -1,0 +1,197 @@
+[+] /gpfs/jlse-fs0/users/<username>/arc-spack/opt/spack/linux-opensuse_leap15-icelake/gcc-11.1.0/ncurses-6.2-ez5jutbvfr4lt2fwayuaiogqr436mga5
+[+] /gpfs/jlse-fs0/users/<username>/arc-spack/opt/spack/linux-opensuse_leap15-icelake/gcc-11.1.0/zlib-1.2.12-bf2hdglktcpprf7c7punaxgwiuh5qxun
+[+] /gpfs/jlse-fs0/users/<username>/arc-spack/opt/spack/linux-opensuse_leap15-icelake/gcc-11.1.0/libpciaccess-0.16-vdvp4cu272dt6mtczlyusladpulwz4mf
+[+] /gpfs/jlse-fs0/users/<username>/arc-spack/opt/spack/linux-opensuse_leap15-icelake/gcc-11.1.0/libiconv-1.16-h5frfccoog4gimp6glaq5azsezhzhwos
+[+] /gpfs/jlse-fs0/users/<username>/arc-spack/opt/spack/linux-opensuse_leap15-icelake/gcc-11.1.0/xz-5.2.5-lffe5xs5q3vau77ocrlqitkins3i7rd7
+[+] /gpfs/jlse-fs0/users/<username>/arc-spack/opt/spack/linux-opensuse_leap15-icelake/gcc-11.1.0/numactl-2.0.14-3szbwr6xvcvmcapfsuieow3k26ml3nib
+[+] /gpfs/jlse-fs0/users/<username>/arc-spack/opt/spack/linux-opensuse_leap15-icelake/gcc-11.1.0/pkgconf-1.8.0-mtjhxc5apyibx44x5bgf55ykix75bdhc
+[+] /gpfs/jlse-fs0/users/<username>/arc-spack/opt/spack/linux-opensuse_leap15-icelake/gcc-11.1.0/libedit-3.1-20210216-wanarbac23rc2frkvt6wdlwvgezwova3
+[+] /gpfs/jlse-fs0/users/<username>/arc-spack/opt/spack/linux-opensuse_leap15-icelake/gcc-11.1.0/openssl-1.1.1n-e3l3mxis4tvld4o7hzmupvepzre6wxtv
+[+] /gpfs/jlse-fs0/users/<username>/arc-spack/opt/spack/linux-opensuse_leap15-icelake/gcc-11.1.0/libxml2-2.9.12-zw6g3jnotqte4vwh2lqrmab2hgvwx657
+[+] /gpfs/jlse-fs0/users/<username>/arc-spack/opt/spack/linux-opensuse_leap15-icelake/gcc-11.1.0/cmake-3.23.1-6rsse46zntwdwrmisjlu52ldw3xc6o4x
+[+] /gpfs/jlse-fs0/users/<username>/arc-spack/opt/spack/linux-opensuse_leap15-icelake/gcc-11.1.0/libevent-2.1.12-3dcyepnlfpqrs6xz2fsqekchwmulz6e2
+[+] /gpfs/jlse-fs0/users/<username>/arc-spack/opt/spack/linux-opensuse_leap15-icelake/gcc-11.1.0/openssh-9.0p1-ewyeuunuo4lfdbgqguwhqdbrpw3tmj4n
+[+] /gpfs/jlse-fs0/users/<username>/arc-spack/opt/spack/linux-opensuse_leap15-icelake/gcc-11.1.0/hwloc-2.7.1-pk5t4wz5ijk24ng5pskoyms35jp2stzl
+[+] /gpfs/jlse-fs0/users/<username>/arc-spack/opt/spack/linux-opensuse_leap15-icelake/gcc-11.1.0/pmix-4.1.2-cdsjejtyvoosgdj2jtkji75cpah5t43d
+[+] /gpfs/jlse-fs0/users/<username>/arc-spack/opt/spack/linux-opensuse_leap15-icelake/gcc-11.1.0/openmpi-4.1.3-torbgpfwsllrspjugckzx4twqc34tmrl
+==> Installing hdf5-1.13.1-fputw2t2jnwug7hr5wczsbwoyf3hfkv6
+==> No binary for hdf5-1.13.1-fputw2t2jnwug7hr5wczsbwoyf3hfkv6 found: installing from source
+==> Using cached archive: /gpfs/jlse-fs0/users/<username>/arc-spack/var/spack/cache/_source-cache/archive/05/051655873105112f7aeccd5f59ab21f35f7f4907f06921ae61aaf1ef1c71fd53.tar.gz
+==> Ran patch() for hdf5
+==> hdf5: Executing phase: 'cmake'
+==> hdf5: Executing phase: 'build'
+==> hdf5: Executing phase: 'install'
+==> hdf5: Successfully installed hdf5-1.13.1-fputw2t2jnwug7hr5wczsbwoyf3hfkv6
+  Fetch: 0.04s.  Build: 1m 2.15s.  Total: 1m 2.18s.
+[+] /gpfs/jlse-fs0/users/<username>/arc-spack/opt/spack/linux-opensuse_leap15-icelake/gcc-11.1.0/hdf5-1.13.1-fputw2t2jnwug7hr5wczsbwoyf3hfkv6
+==> Installing hdf5-vol-external-passthrough-1.0-6p32ug37trt7nubbvjdfkeyve2nmoz2m
+==> No binary for hdf5-vol-external-passthrough-1.0-6p32ug37trt7nubbvjdfkeyve2nmoz2m found: installing from source
+==> Using cached archive: /gpfs/jlse-fs0/users/<username>/arc-spack/var/spack/cache/_source-cache/archive/99/99a06d1c31451f8f0c8c10fec112410cda1f951f0eda1bd0ca999d6b35cf7740.tar.gz
+==> No patches needed for hdf5-vol-external-passthrough
+==> hdf5-vol-external-passthrough: Executing phase: 'cmake'
+==> hdf5-vol-external-passthrough: Executing phase: 'build'
+==> hdf5-vol-external-passthrough: Executing phase: 'install'
+==> hdf5-vol-external-passthrough: Successfully installed hdf5-vol-external-passthrough-1.0-6p32ug37trt7nubbvjdfkeyve2nmoz2m
+  Fetch: 0.01s.  Build: 0.86s.  Total: 0.86s.
+[+] /gpfs/jlse-fs0/users/<username>/arc-spack/opt/spack/linux-opensuse_leap15-icelake/gcc-11.1.0/hdf5-vol-external-passthrough-1.0-6p32ug37trt7nubbvjdfkeyve2nmoz2m
+[+] /gpfs/jlse-fs0/users/<username>/arc-spack/opt/spack/linux-opensuse_leap15-icelake/gcc-11.1.0/ncurses-6.2-ez5jutbvfr4lt2fwayuaiogqr436mga5
+[+] /gpfs/jlse-fs0/users/<username>/arc-spack/opt/spack/linux-opensuse_leap15-icelake/gcc-11.1.0/zlib-1.2.12-bf2hdglktcpprf7c7punaxgwiuh5qxun
+[+] /gpfs/jlse-fs0/users/<username>/arc-spack/opt/spack/linux-opensuse_leap15-icelake/gcc-11.1.0/libpciaccess-0.16-vdvp4cu272dt6mtczlyusladpulwz4mf
+[+] /gpfs/jlse-fs0/users/<username>/arc-spack/opt/spack/linux-opensuse_leap15-icelake/gcc-11.1.0/libiconv-1.16-h5frfccoog4gimp6glaq5azsezhzhwos
+[+] /gpfs/jlse-fs0/users/<username>/arc-spack/opt/spack/linux-opensuse_leap15-icelake/gcc-11.1.0/xz-5.2.5-lffe5xs5q3vau77ocrlqitkins3i7rd7
+[+] /gpfs/jlse-fs0/users/<username>/arc-spack/opt/spack/linux-opensuse_leap15-icelake/gcc-11.1.0/numactl-2.0.14-3szbwr6xvcvmcapfsuieow3k26ml3nib
+[+] /gpfs/jlse-fs0/users/<username>/arc-spack/opt/spack/linux-opensuse_leap15-icelake/gcc-11.1.0/pkgconf-1.8.0-mtjhxc5apyibx44x5bgf55ykix75bdhc
+[+] /gpfs/jlse-fs0/users/<username>/arc-spack/opt/spack/linux-opensuse_leap15-icelake/gcc-11.1.0/libedit-3.1-20210216-wanarbac23rc2frkvt6wdlwvgezwova3
+[+] /gpfs/jlse-fs0/users/<username>/arc-spack/opt/spack/linux-opensuse_leap15-icelake/gcc-11.1.0/openssl-1.1.1n-e3l3mxis4tvld4o7hzmupvepzre6wxtv
+[+] /gpfs/jlse-fs0/users/<username>/arc-spack/opt/spack/linux-opensuse_leap15-icelake/gcc-11.1.0/libxml2-2.9.12-zw6g3jnotqte4vwh2lqrmab2hgvwx657
+[+] /gpfs/jlse-fs0/users/<username>/arc-spack/opt/spack/linux-opensuse_leap15-icelake/gcc-11.1.0/cmake-3.23.1-6rsse46zntwdwrmisjlu52ldw3xc6o4x
+[+] /gpfs/jlse-fs0/users/<username>/arc-spack/opt/spack/linux-opensuse_leap15-icelake/gcc-11.1.0/libevent-2.1.12-3dcyepnlfpqrs6xz2fsqekchwmulz6e2
+[+] /gpfs/jlse-fs0/users/<username>/arc-spack/opt/spack/linux-opensuse_leap15-icelake/gcc-11.1.0/openssh-9.0p1-ewyeuunuo4lfdbgqguwhqdbrpw3tmj4n
+[+] /gpfs/jlse-fs0/users/<username>/arc-spack/opt/spack/linux-opensuse_leap15-icelake/gcc-11.1.0/hwloc-2.7.1-pk5t4wz5ijk24ng5pskoyms35jp2stzl
+[+] /gpfs/jlse-fs0/users/<username>/arc-spack/opt/spack/linux-opensuse_leap15-icelake/gcc-11.1.0/pmix-4.1.2-cdsjejtyvoosgdj2jtkji75cpah5t43d
+[+] /gpfs/jlse-fs0/users/<username>/arc-spack/opt/spack/linux-opensuse_leap15-icelake/gcc-11.1.0/openmpi-4.1.3-torbgpfwsllrspjugckzx4twqc34tmrl
+==> Installing hdf5-develop-1.13-euvhvcvfbh4q7cevsba675aqomjraewa
+==> No binary for hdf5-develop-1.13-euvhvcvfbh4q7cevsba675aqomjraewa found: installing from source
+==> Ran patch() for hdf5
+==> hdf5: Executing phase: 'cmake'
+==> hdf5: Executing phase: 'build'
+==> hdf5: Executing phase: 'install'
+==> hdf5: Successfully installed hdf5-develop-1.13-euvhvcvfbh4q7cevsba675aqomjraewa
+  Fetch: 5.42s.  Build: 53.34s.  Total: 58.77s.
+[+] /gpfs/jlse-fs0/users/<username>/arc-spack/opt/spack/linux-opensuse_leap15-icelake/gcc-11.1.0/hdf5-develop-1.13-euvhvcvfbh4q7cevsba675aqomjraewa
+==> Installing hdf5-vol-external-passthrough-1.0-yazugs7b5djfhbmef4ifcj2e6pbd4uq2
+==> No binary for hdf5-vol-external-passthrough-1.0-yazugs7b5djfhbmef4ifcj2e6pbd4uq2 found: installing from source
+==> Using cached archive: /gpfs/jlse-fs0/users/<username>/arc-spack/var/spack/cache/_source-cache/archive/99/99a06d1c31451f8f0c8c10fec112410cda1f951f0eda1bd0ca999d6b35cf7740.tar.gz
+==> No patches needed for hdf5-vol-external-passthrough
+==> hdf5-vol-external-passthrough: Executing phase: 'cmake'
+==> hdf5-vol-external-passthrough: Executing phase: 'build'
+==> hdf5-vol-external-passthrough: Executing phase: 'install'
+==> hdf5-vol-external-passthrough: Successfully installed hdf5-vol-external-passthrough-1.0-yazugs7b5djfhbmef4ifcj2e6pbd4uq2
+  Fetch: 0.01s.  Build: 0.86s.  Total: 0.87s.
+[+] /gpfs/jlse-fs0/users/<username>/arc-spack/opt/spack/linux-opensuse_leap15-icelake/gcc-11.1.0/hdf5-vol-external-passthrough-1.0-yazugs7b5djfhbmef4ifcj2e6pbd4uq2
+[+] /gpfs/jlse-fs0/users/<username>/arc-spack/opt/spack/linux-opensuse_leap15-icelake/gcc-11.1.0/argobots-main-mb3oorc46vcpdeddcpcdhfsmz4sa53wx
+[+] /gpfs/jlse-fs0/users/<username>/arc-spack/opt/spack/linux-opensuse_leap15-icelake/gcc-11.1.0/ncurses-6.2-ez5jutbvfr4lt2fwayuaiogqr436mga5
+[+] /gpfs/jlse-fs0/users/<username>/arc-spack/opt/spack/linux-opensuse_leap15-icelake/gcc-11.1.0/zlib-1.2.12-bf2hdglktcpprf7c7punaxgwiuh5qxun
+[+] /gpfs/jlse-fs0/users/<username>/arc-spack/opt/spack/linux-opensuse_leap15-icelake/gcc-11.1.0/libpciaccess-0.16-vdvp4cu272dt6mtczlyusladpulwz4mf
+[+] /gpfs/jlse-fs0/users/<username>/arc-spack/opt/spack/linux-opensuse_leap15-icelake/gcc-11.1.0/libiconv-1.16-h5frfccoog4gimp6glaq5azsezhzhwos
+[+] /gpfs/jlse-fs0/users/<username>/arc-spack/opt/spack/linux-opensuse_leap15-icelake/gcc-11.1.0/xz-5.2.5-lffe5xs5q3vau77ocrlqitkins3i7rd7
+[+] /gpfs/jlse-fs0/users/<username>/arc-spack/opt/spack/linux-opensuse_leap15-icelake/gcc-11.1.0/numactl-2.0.14-3szbwr6xvcvmcapfsuieow3k26ml3nib
+[+] /gpfs/jlse-fs0/users/<username>/arc-spack/opt/spack/linux-opensuse_leap15-icelake/gcc-11.1.0/pkgconf-1.8.0-mtjhxc5apyibx44x5bgf55ykix75bdhc
+[+] /gpfs/jlse-fs0/users/<username>/arc-spack/opt/spack/linux-opensuse_leap15-icelake/gcc-11.1.0/libedit-3.1-20210216-wanarbac23rc2frkvt6wdlwvgezwova3
+[+] /gpfs/jlse-fs0/users/<username>/arc-spack/opt/spack/linux-opensuse_leap15-icelake/gcc-11.1.0/openssl-1.1.1n-e3l3mxis4tvld4o7hzmupvepzre6wxtv
+[+] /gpfs/jlse-fs0/users/<username>/arc-spack/opt/spack/linux-opensuse_leap15-icelake/gcc-11.1.0/libxml2-2.9.12-zw6g3jnotqte4vwh2lqrmab2hgvwx657
+[+] /gpfs/jlse-fs0/users/<username>/arc-spack/opt/spack/linux-opensuse_leap15-icelake/gcc-11.1.0/openssh-9.0p1-ewyeuunuo4lfdbgqguwhqdbrpw3tmj4n
+[+] /gpfs/jlse-fs0/users/<username>/arc-spack/opt/spack/linux-opensuse_leap15-icelake/gcc-11.1.0/libevent-2.1.12-3dcyepnlfpqrs6xz2fsqekchwmulz6e2
+[+] /gpfs/jlse-fs0/users/<username>/arc-spack/opt/spack/linux-opensuse_leap15-icelake/gcc-11.1.0/cmake-3.23.1-6rsse46zntwdwrmisjlu52ldw3xc6o4x
+[+] /gpfs/jlse-fs0/users/<username>/arc-spack/opt/spack/linux-opensuse_leap15-icelake/gcc-11.1.0/hwloc-2.7.1-pk5t4wz5ijk24ng5pskoyms35jp2stzl
+[+] /gpfs/jlse-fs0/users/<username>/arc-spack/opt/spack/linux-opensuse_leap15-icelake/gcc-11.1.0/pmix-4.1.2-cdsjejtyvoosgdj2jtkji75cpah5t43d
+[+] /gpfs/jlse-fs0/users/<username>/arc-spack/opt/spack/linux-opensuse_leap15-icelake/gcc-11.1.0/openmpi-4.1.3-torbgpfwsllrspjugckzx4twqc34tmrl
+==> Installing hdf5-develop-1.13-fumoj3js5uvij2chtdykhf4jjjr77ugn
+==> No binary for hdf5-develop-1.13-fumoj3js5uvij2chtdykhf4jjjr77ugn found: installing from source
+==> Ran patch() for hdf5
+==> hdf5: Executing phase: 'cmake'
+==> hdf5: Executing phase: 'build'
+==> hdf5: Executing phase: 'install'
+==> hdf5: Successfully installed hdf5-develop-1.13-fumoj3js5uvij2chtdykhf4jjjr77ugn
+  Fetch: 5.20s.  Build: 53.87s.  Total: 59.07s.
+[+] /gpfs/jlse-fs0/users/<username>/arc-spack/opt/spack/linux-opensuse_leap15-icelake/gcc-11.1.0/hdf5-develop-1.13-fumoj3js5uvij2chtdykhf4jjjr77ugn
+==> Installing hdf5-vol-async-1.1-htzzufrltrk5ahqwzasj57psje2dlrwa
+==> No binary for hdf5-vol-async-1.1-htzzufrltrk5ahqwzasj57psje2dlrwa found: installing from source
+==> Using cached archive: /gpfs/jlse-fs0/users/<username>/arc-spack/var/spack/cache/_source-cache/git//hpc-io/vol-async.git/v1.1.tar.gz
+==> No patches needed for hdf5-vol-async
+==> hdf5-vol-async: Executing phase: 'cmake'
+==> hdf5-vol-async: Executing phase: 'build'
+==> hdf5-vol-async: Executing phase: 'install'
+==> hdf5-vol-async: Successfully installed hdf5-vol-async-1.1-htzzufrltrk5ahqwzasj57psje2dlrwa
+  Fetch: 0.01s.  Build: 7.85s.  Total: 7.86s.
+[+] /gpfs/jlse-fs0/users/<username>/arc-spack/opt/spack/linux-opensuse_leap15-icelake/gcc-11.1.0/hdf5-vol-async-1.1-htzzufrltrk5ahqwzasj57psje2dlrwa
+[+] /gpfs/jlse-fs0/users/<username>/arc-spack/opt/spack/linux-opensuse_leap15-icelake/gcc-11.1.0/libsigsegv-2.13-tzxkyterndqfkhd76lkm74brx2wqahuu
+[+] /gpfs/jlse-fs0/users/<username>/arc-spack/opt/spack/linux-opensuse_leap15-icelake/gcc-11.1.0/berkeley-db-18.1.40-j3vli3xjzhpmxoppx5ofgudv62bf4y6i
+[+] /gpfs/jlse-fs0/users/<username>/arc-spack/opt/spack/linux-opensuse_leap15-icelake/gcc-11.1.0/bzip2-1.0.8-4j6wcidfk6kfofeyvpychthiprcnqr4q
+[+] /gpfs/jlse-fs0/users/<username>/arc-spack/opt/spack/linux-opensuse_leap15-icelake/gcc-11.1.0/ncurses-6.2-ez5jutbvfr4lt2fwayuaiogqr436mga5
+[+] /gpfs/jlse-fs0/users/<username>/arc-spack/opt/spack/linux-opensuse_leap15-icelake/gcc-11.1.0/zlib-1.2.12-bf2hdglktcpprf7c7punaxgwiuh5qxun
+[+] /gpfs/jlse-fs0/users/<username>/arc-spack/opt/spack/linux-opensuse_leap15-icelake/gcc-11.1.0/libpciaccess-0.16-vdvp4cu272dt6mtczlyusladpulwz4mf
+[+] /gpfs/jlse-fs0/users/<username>/arc-spack/opt/spack/linux-opensuse_leap15-icelake/gcc-11.1.0/libiconv-1.16-h5frfccoog4gimp6glaq5azsezhzhwos
+[+] /gpfs/jlse-fs0/users/<username>/arc-spack/opt/spack/linux-opensuse_leap15-icelake/gcc-11.1.0/xz-5.2.5-lffe5xs5q3vau77ocrlqitkins3i7rd7
+[+] /gpfs/jlse-fs0/users/<username>/arc-spack/opt/spack/linux-opensuse_leap15-icelake/gcc-11.1.0/numactl-2.0.14-3szbwr6xvcvmcapfsuieow3k26ml3nib
+[+] /gpfs/jlse-fs0/users/<username>/arc-spack/opt/spack/linux-opensuse_leap15-icelake/gcc-11.1.0/pkgconf-1.8.0-mtjhxc5apyibx44x5bgf55ykix75bdhc
+[+] /gpfs/jlse-fs0/users/<username>/arc-spack/opt/spack/linux-opensuse_leap15-icelake/gcc-11.1.0/libtool-2.4.7-enujt3t6hmvzpmlyvh6a3jtnkocg2nyj
+[+] /gpfs/jlse-fs0/users/<username>/arc-spack/opt/spack/linux-opensuse_leap15-icelake/gcc-11.1.0/m4-1.4.19-gu7otiklguxq6xfnmeq25en6q26x52f2
+[+] /gpfs/jlse-fs0/users/<username>/arc-spack/opt/spack/linux-opensuse_leap15-icelake/gcc-11.1.0/libedit-3.1-20210216-wanarbac23rc2frkvt6wdlwvgezwova3
+[+] /gpfs/jlse-fs0/users/<username>/arc-spack/opt/spack/linux-opensuse_leap15-icelake/gcc-11.1.0/readline-8.1-t4ixkfsxprgbgrcshv565ywwhxsvs4od
+[+] /gpfs/jlse-fs0/users/<username>/arc-spack/opt/spack/linux-opensuse_leap15-icelake/gcc-11.1.0/openssl-1.1.1n-e3l3mxis4tvld4o7hzmupvepzre6wxtv
+[+] /gpfs/jlse-fs0/users/<username>/arc-spack/opt/spack/linux-opensuse_leap15-icelake/gcc-11.1.0/libxml2-2.9.12-zw6g3jnotqte4vwh2lqrmab2hgvwx657
+[+] /gpfs/jlse-fs0/users/<username>/arc-spack/opt/spack/linux-opensuse_leap15-icelake/gcc-11.1.0/gdbm-1.19-npxjvg6cs7m3ozcwvsmb7powek7jdd6x
+[+] /gpfs/jlse-fs0/users/<username>/arc-spack/opt/spack/linux-opensuse_leap15-icelake/gcc-11.1.0/openssh-9.0p1-ewyeuunuo4lfdbgqguwhqdbrpw3tmj4n
+[+] /gpfs/jlse-fs0/users/<username>/arc-spack/opt/spack/linux-opensuse_leap15-icelake/gcc-11.1.0/libevent-2.1.12-3dcyepnlfpqrs6xz2fsqekchwmulz6e2
+[+] /gpfs/jlse-fs0/users/<username>/arc-spack/opt/spack/linux-opensuse_leap15-icelake/gcc-11.1.0/cmake-3.23.1-6rsse46zntwdwrmisjlu52ldw3xc6o4x
+[+] /gpfs/jlse-fs0/users/<username>/arc-spack/opt/spack/linux-opensuse_leap15-icelake/gcc-11.1.0/hwloc-2.7.1-pk5t4wz5ijk24ng5pskoyms35jp2stzl
+[+] /gpfs/jlse-fs0/users/<username>/arc-spack/opt/spack/linux-opensuse_leap15-icelake/gcc-11.1.0/perl-5.34.1-wnyjao3q6pjughvoz3zoce6gbg6odj76
+[+] /gpfs/jlse-fs0/users/<username>/arc-spack/opt/spack/linux-opensuse_leap15-icelake/gcc-11.1.0/pmix-4.1.2-cdsjejtyvoosgdj2jtkji75cpah5t43d
+[+] /gpfs/jlse-fs0/users/<username>/arc-spack/opt/spack/linux-opensuse_leap15-icelake/gcc-11.1.0/autoconf-2.69-wvakx35ty2yt7y6xnogm2sqrvny5kjpm
+[+] /gpfs/jlse-fs0/users/<username>/arc-spack/opt/spack/linux-opensuse_leap15-icelake/gcc-11.1.0/automake-1.16.5-7h377syaev6gud6aw4sobqmdjundq7pj
+[+] /gpfs/jlse-fs0/users/<username>/arc-spack/opt/spack/linux-opensuse_leap15-icelake/gcc-11.1.0/openmpi-4.1.3-torbgpfwsllrspjugckzx4twqc34tmrl
+[+] /gpfs/jlse-fs0/users/<username>/arc-spack/opt/spack/linux-opensuse_leap15-icelake/gcc-11.1.0/hdf5-1.13.1-fputw2t2jnwug7hr5wczsbwoyf3hfkv6
+==> Installing hdf5-vol-log-master-1.1-3hficof6xvezy5ne5qxlaahkk4ftkbwu
+==> No binary for hdf5-vol-log-master-1.1-3hficof6xvezy5ne5qxlaahkk4ftkbwu found: installing from source
+==> No patches needed for hdf5-vol-log
+==> hdf5-vol-log: Executing phase: 'autoreconf'
+==> hdf5-vol-log: Executing phase: 'configure'
+==> hdf5-vol-log: Executing phase: 'build'
+==> hdf5-vol-log: Executing phase: 'install'
+==> hdf5-vol-log: Successfully installed hdf5-vol-log-master-1.1-3hficof6xvezy5ne5qxlaahkk4ftkbwu
+  Fetch: 1.11s.  Build: 33.84s.  Total: 34.96s.
+[+] /gpfs/jlse-fs0/users/<username>/arc-spack/opt/spack/linux-opensuse_leap15-icelake/gcc-11.1.0/hdf5-vol-log-master-1.1-3hficof6xvezy5ne5qxlaahkk4ftkbwu
+[+] /gpfs/jlse-fs0/users/<username>/arc-spack/opt/spack/linux-opensuse_leap15-icelake/gcc-11.1.0/bzip2-1.0.8-4j6wcidfk6kfofeyvpychthiprcnqr4q
+[+] /gpfs/jlse-fs0/users/<username>/arc-spack/opt/spack/linux-opensuse_leap15-icelake/gcc-11.1.0/lz4-1.9.3-ztqlswoxojwrumow6k4mihpdvxxjbp6p
+[+] /gpfs/jlse-fs0/users/<username>/arc-spack/opt/spack/linux-opensuse_leap15-icelake/gcc-11.1.0/snappy-1.1.8-255kwkwo4vtjbxactkvpmjsbqc4valrv
+[+] /gpfs/jlse-fs0/users/<username>/arc-spack/opt/spack/linux-opensuse_leap15-icelake/gcc-11.1.0/zlib-1.2.12-bf2hdglktcpprf7c7punaxgwiuh5qxun
+[+] /gpfs/jlse-fs0/users/<username>/arc-spack/opt/spack/linux-opensuse_leap15-icelake/gcc-11.1.0/zstd-1.5.2-n2wk3v53adl6xrai3mhcioii53ljozm3
+[+] /gpfs/jlse-fs0/users/<username>/arc-spack/opt/spack/linux-opensuse_leap15-icelake/gcc-11.1.0/ncurses-6.2-ez5jutbvfr4lt2fwayuaiogqr436mga5
+[+] /gpfs/jlse-fs0/users/<username>/arc-spack/opt/spack/linux-opensuse_leap15-icelake/gcc-11.1.0/libpciaccess-0.16-vdvp4cu272dt6mtczlyusladpulwz4mf
+[+] /gpfs/jlse-fs0/users/<username>/arc-spack/opt/spack/linux-opensuse_leap15-icelake/gcc-11.1.0/libiconv-1.16-h5frfccoog4gimp6glaq5azsezhzhwos
+[+] /gpfs/jlse-fs0/users/<username>/arc-spack/opt/spack/linux-opensuse_leap15-icelake/gcc-11.1.0/xz-5.2.5-lffe5xs5q3vau77ocrlqitkins3i7rd7
+[+] /gpfs/jlse-fs0/users/<username>/arc-spack/opt/spack/linux-opensuse_leap15-icelake/gcc-11.1.0/numactl-2.0.14-3szbwr6xvcvmcapfsuieow3k26ml3nib
+[+] /gpfs/jlse-fs0/users/<username>/arc-spack/opt/spack/linux-opensuse_leap15-icelake/gcc-11.1.0/pkgconf-1.8.0-mtjhxc5apyibx44x5bgf55ykix75bdhc
+[+] /gpfs/jlse-fs0/users/<username>/arc-spack/opt/spack/linux-opensuse_leap15-icelake/gcc-11.1.0/libfabric-1.14.1-wv3pa7vmnbctoml3jd6z5djoe3pvgx42
+[+] /gpfs/jlse-fs0/users/<username>/arc-spack/opt/spack/linux-opensuse_leap15-icelake/gcc-11.1.0/libffi-3.4.2-6wbkxhtnjunialbzx27nxkcdxw7wdqvi
+[+] /gpfs/jlse-fs0/users/<username>/arc-spack/opt/spack/linux-opensuse_leap15-icelake/gcc-11.1.0/zfp-0.5.5-4klk6qmh2itkg2oqow5gbjkugor3c66f
+[+] /gpfs/jlse-fs0/users/<username>/arc-spack/opt/spack/linux-opensuse_leap15-icelake/gcc-11.1.0/openssl-1.1.1n-e3l3mxis4tvld4o7hzmupvepzre6wxtv
+[+] /gpfs/jlse-fs0/users/<username>/arc-spack/opt/spack/linux-opensuse_leap15-icelake/gcc-11.1.0/libpng-1.6.37-hmnkftgxbavpou6amxznkcyqa6qvyu35
+[+] /gpfs/jlse-fs0/users/<username>/arc-spack/opt/spack/linux-opensuse_leap15-icelake/gcc-11.1.0/sz-2.1.12-t66p2gjsdvnefhjntgwk4mafj74bxnul
+[+] /gpfs/jlse-fs0/users/<username>/arc-spack/opt/spack/linux-opensuse_leap15-icelake/gcc-11.1.0/c-blosc-1.21.1-n72qqzzq6tgbyv6ng6ru5kbzhwap4qi2
+[+] /gpfs/jlse-fs0/users/<username>/arc-spack/opt/spack/linux-opensuse_leap15-icelake/gcc-11.1.0/libedit-3.1-20210216-wanarbac23rc2frkvt6wdlwvgezwova3
+[+] /gpfs/jlse-fs0/users/<username>/arc-spack/opt/spack/linux-opensuse_leap15-icelake/gcc-11.1.0/libxml2-2.9.12-zw6g3jnotqte4vwh2lqrmab2hgvwx657
+[+] /gpfs/jlse-fs0/users/<username>/arc-spack/opt/spack/linux-opensuse_leap15-icelake/gcc-11.1.0/libevent-2.1.12-3dcyepnlfpqrs6xz2fsqekchwmulz6e2
+[+] /gpfs/jlse-fs0/users/<username>/arc-spack/opt/spack/linux-opensuse_leap15-icelake/gcc-11.1.0/cmake-3.23.1-6rsse46zntwdwrmisjlu52ldw3xc6o4x
+[+] /gpfs/jlse-fs0/users/<username>/arc-spack/opt/spack/linux-opensuse_leap15-icelake/gcc-11.1.0/openssh-9.0p1-ewyeuunuo4lfdbgqguwhqdbrpw3tmj4n
+[+] /gpfs/jlse-fs0/users/<username>/arc-spack/opt/spack/linux-opensuse_leap15-icelake/gcc-11.1.0/hwloc-2.7.1-pk5t4wz5ijk24ng5pskoyms35jp2stzl
+[+] /gpfs/jlse-fs0/users/<username>/arc-spack/opt/spack/linux-opensuse_leap15-icelake/gcc-11.1.0/pmix-4.1.2-cdsjejtyvoosgdj2jtkji75cpah5t43d
+[+] /gpfs/jlse-fs0/users/<username>/arc-spack/opt/spack/linux-opensuse_leap15-icelake/gcc-11.1.0/openmpi-4.1.3-torbgpfwsllrspjugckzx4twqc34tmrl
+[+] /gpfs/jlse-fs0/users/<username>/arc-spack/opt/spack/linux-opensuse_leap15-icelake/gcc-11.1.0/hdf5-1.13.1-fputw2t2jnwug7hr5wczsbwoyf3hfkv6
+==> Installing adios2-2.8.0-32rw47vaq5hwjjcaqmrm7jfxsowjhmrd
+==> No binary for adios2-2.8.0-32rw47vaq5hwjjcaqmrm7jfxsowjhmrd found: installing from source
+==> Using cached archive: /gpfs/jlse-fs0/users/<username>/arc-spack/var/spack/cache/_source-cache/archive/5a/5af3d950e616989133955c2430bd09bcf6bad3a04cf62317b401eaf6e7c2d479.tar.gz
+==> No patches needed for adios2
+==> adios2: Executing phase: 'cmake'
+==> adios2: Executing phase: 'build'
+==> adios2: Executing phase: 'install'
+==> adios2: Successfully installed adios2-2.8.0-32rw47vaq5hwjjcaqmrm7jfxsowjhmrd
+  Fetch: 0.03s.  Build: 1m 50.96s.  Total: 1m 50.99s.
+[+] /gpfs/jlse-fs0/users/<username>/arc-spack/opt/spack/linux-opensuse_leap15-icelake/gcc-11.1.0/adios2-2.8.0-32rw47vaq5hwjjcaqmrm7jfxsowjhmrd
+
+Find installed hdf5 and vol packages
+
+-- linux-opensuse_leap15-icelake / gcc@11.1.0 -------------------
+hdf5-vol-external-passthrough@1.0
+hdf5-vol-external-passthrough@1.0
+-- linux-opensuse_leap15-icelake / gcc@11.1.0 -------------------
+hdf5-vol-async@1.1
+-- linux-opensuse_leap15-icelake / gcc@11.1.0 -------------------
+hdf5-vol-log@master-1.1
+-- linux-opensuse_leap15-icelake / gcc@11.1.0 -------------------
+hdf5@1.13.1
+hdf5@develop-1.13
+hdf5@develop-1.13
+-- linux-opensuse_leap15-icelake / gcc@11.1.0 -------------------
+adios2@2.8.0
